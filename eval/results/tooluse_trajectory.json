@@ -1,0 +1,716 @@
+{
+  "tool_use": {
+    "precision": 0.9666666666666667,
+    "recall": 1.0,
+    "f1": 0.983050847457627,
+    "per_query": [
+      {
+        "id": "h1",
+        "expected": [
+          "cf",
+          "filter",
+          "rerank",
+          "semantic"
+        ],
+        "actual": [
+          "cf",
+          "filter",
+          "rerank",
+          "semantic"
+        ],
+        "precision": 1.0,
+        "recall": 1.0
+      },
+      {
+        "id": "h2",
+        "expected": [
+          "cf",
+          "filter",
+          "rerank",
+          "semantic"
+        ],
+        "actual": [
+          "cf",
+          "filter",
+          "rerank",
+          "semantic"
+        ],
+        "precision": 1.0,
+        "recall": 1.0
+      },
+      {
+        "id": "h3",
+        "expected": [
+          "cf",
+          "filter"
+        ],
+        "actual": [
+          "cf",
+          "filter"
+        ],
+        "precision": 1.0,
+        "recall": 1.0
+      },
+      {
+        "id": "h4",
+        "expected": [
+          "cf",
+          "filter",
+          "rerank",
+          "semantic"
+        ],
+        "actual": [
+          "cf",
+          "filter",
+          "rerank",
+          "semantic"
+        ],
+        "precision": 1.0,
+        "recall": 1.0
+      },
+      {
+        "id": "c1",
+        "expected": [
+          "cf",
+          "filter"
+        ],
+        "actual": [
+          "cf",
+          "filter"
+        ],
+        "precision": 1.0,
+        "recall": 1.0
+      },
+      {
+        "id": "c2",
+        "expected": [
+          "cf",
+          "filter"
+        ],
+        "actual": [
+          "cf",
+          "filter"
+        ],
+        "precision": 1.0,
+        "recall": 1.0
+      },
+      {
+        "id": "c3",
+        "expected": [
+          "cf",
+          "filter"
+        ],
+        "actual": [
+          "cf",
+          "filter"
+        ],
+        "precision": 1.0,
+        "recall": 1.0
+      },
+      {
+        "id": "s1",
+        "expected": [
+          "filter",
+          "rerank",
+          "semantic"
+        ],
+        "actual": [
+          "filter",
+          "rerank",
+          "semantic"
+        ],
+        "precision": 1.0,
+        "recall": 1.0
+      },
+      {
+        "id": "s2",
+        "expected": [
+          "filter",
+          "rerank",
+          "semantic"
+        ],
+        "actual": [
+          "filter",
+          "rerank",
+          "semantic"
+        ],
+        "precision": 1.0,
+        "recall": 1.0
+      },
+      {
+        "id": "s3",
+        "expected": [
+          "filter",
+          "rerank",
+          "semantic"
+        ],
+        "actual": [
+          "filter",
+          "rerank",
+          "semantic"
+        ],
+        "precision": 1.0,
+        "recall": 1.0
+      },
+      {
+        "id": "s4",
+        "expected": [
+          "filter",
+          "rerank",
+          "semantic"
+        ],
+        "actual": [
+          "filter",
+          "rerank",
+          "semantic"
+        ],
+        "precision": 1.0,
+        "recall": 1.0
+      },
+      {
+        "id": "s5",
+        "expected": [
+          "filter",
+          "rerank",
+          "semantic"
+        ],
+        "actual": [
+          "filter",
+          "rerank",
+          "semantic"
+        ],
+        "precision": 1.0,
+        "recall": 1.0
+      },
+      {
+        "id": "s6",
+        "expected": [
+          "filter",
+          "rerank",
+          "semantic"
+        ],
+        "actual": [
+          "filter",
+          "rerank",
+          "semantic"
+        ],
+        "precision": 1.0,
+        "recall": 1.0
+      },
+      {
+        "id": "g1",
+        "expected": [
+          "filter",
+          "semantic"
+        ],
+        "actual": [
+          "filter",
+          "semantic"
+        ],
+        "precision": 1.0,
+        "recall": 1.0
+      },
+      {
+        "id": "g2",
+        "expected": [
+          "filter",
+          "semantic"
+        ],
+        "actual": [
+          "filter",
+          "semantic"
+        ],
+        "precision": 1.0,
+        "recall": 1.0
+      },
+      {
+        "id": "g3",
+        "expected": [
+          "filter",
+          "semantic"
+        ],
+        "actual": [
+          "filter",
+          "semantic"
+        ],
+        "precision": 1.0,
+        "recall": 1.0
+      },
+      {
+        "id": "g4",
+        "expected": [
+          "filter",
+          "semantic"
+        ],
+        "actual": [
+          "filter",
+          "semantic"
+        ],
+        "precision": 1.0,
+        "recall": 1.0
+      },
+      {
+        "id": "k1",
+        "expected": [
+          "filter",
+          "rerank",
+          "semantic"
+        ],
+        "actual": [
+          "filter",
+          "rerank",
+          "semantic"
+        ],
+        "precision": 1.0,
+        "recall": 1.0
+      },
+      {
+        "id": "k2",
+        "expected": [
+          "filter",
+          "rerank",
+          "semantic"
+        ],
+        "actual": [
+          "filter",
+          "rerank",
+          "semantic"
+        ],
+        "precision": 1.0,
+        "recall": 1.0
+      },
+      {
+        "id": "k3",
+        "expected": [
+          "filter",
+          "rerank",
+          "semantic"
+        ],
+        "actual": [
+          "filter",
+          "rerank",
+          "semantic"
+        ],
+        "precision": 1.0,
+        "recall": 1.0
+      },
+      {
+        "id": "v1",
+        "expected": [
+          "rerank",
+          "semantic"
+        ],
+        "actual": [
+          "filter",
+          "rerank",
+          "semantic"
+        ],
+        "precision": 0.6666666666666666,
+        "recall": 1.0
+      },
+      {
+        "id": "v2",
+        "expected": [
+          "rerank",
+          "semantic"
+        ],
+        "actual": [
+          "filter",
+          "rerank",
+          "semantic"
+        ],
+        "precision": 0.6666666666666666,
+        "recall": 1.0
+      },
+      {
+        "id": "v3",
+        "expected": [
+          "rerank",
+          "semantic"
+        ],
+        "actual": [
+          "filter",
+          "rerank",
+          "semantic"
+        ],
+        "precision": 0.6666666666666666,
+        "recall": 1.0
+      },
+      {
+        "id": "v4",
+        "expected": [
+          "filter",
+          "rerank",
+          "semantic"
+        ],
+        "actual": [
+          "filter",
+          "rerank",
+          "semantic"
+        ],
+        "precision": 1.0,
+        "recall": 1.0
+      },
+      {
+        "id": "e1",
+        "expected": [
+          "filter",
+          "rerank",
+          "semantic"
+        ],
+        "actual": [
+          "filter",
+          "rerank",
+          "semantic"
+        ],
+        "precision": 1.0,
+        "recall": 1.0
+      },
+      {
+        "id": "e2",
+        "expected": [
+          "filter",
+          "rerank",
+          "semantic"
+        ],
+        "actual": [
+          "filter",
+          "rerank",
+          "semantic"
+        ],
+        "precision": 1.0,
+        "recall": 1.0
+      },
+      {
+        "id": "x1",
+        "expected": [
+          "filter",
+          "rerank",
+          "semantic"
+        ],
+        "actual": [
+          "filter",
+          "rerank",
+          "semantic"
+        ],
+        "precision": 1.0,
+        "recall": 1.0
+      },
+      {
+        "id": "x2",
+        "expected": [
+          "filter",
+          "semantic"
+        ],
+        "actual": [
+          "filter",
+          "semantic"
+        ],
+        "precision": 1.0,
+        "recall": 1.0
+      },
+      {
+        "id": "p1",
+        "expected": [
+          "cf",
+          "filter"
+        ],
+        "actual": [
+          "cf",
+          "filter"
+        ],
+        "precision": 1.0,
+        "recall": 1.0
+      },
+      {
+        "id": "p2",
+        "expected": [
+          "cf",
+          "filter"
+        ],
+        "actual": [
+          "cf",
+          "filter"
+        ],
+        "precision": 1.0,
+        "recall": 1.0
+      }
+    ]
+  },
+  "trajectory": {
+    "well_formed_rate": 1.0,
+    "looped_count": 3,
+    "per_query": [
+      {
+        "had_planner": true,
+        "had_explainer": true,
+        "n_critic_passes": 1,
+        "n_retriever": 1,
+        "looped": false,
+        "id": "h1",
+        "well_formed": true
+      },
+      {
+        "had_planner": true,
+        "had_explainer": true,
+        "n_critic_passes": 1,
+        "n_retriever": 1,
+        "looped": false,
+        "id": "h2",
+        "well_formed": true
+      },
+      {
+        "had_planner": true,
+        "had_explainer": true,
+        "n_critic_passes": 1,
+        "n_retriever": 1,
+        "looped": false,
+        "id": "h3",
+        "well_formed": true
+      },
+      {
+        "had_planner": true,
+        "had_explainer": true,
+        "n_critic_passes": 1,
+        "n_retriever": 1,
+        "looped": false,
+        "id": "h4",
+        "well_formed": true
+      },
+      {
+        "had_planner": true,
+        "had_explainer": true,
+        "n_critic_passes": 1,
+        "n_retriever": 1,
+        "looped": false,
+        "id": "c1",
+        "well_formed": true
+      },
+      {
+        "had_planner": true,
+        "had_explainer": true,
+        "n_critic_passes": 1,
+        "n_retriever": 1,
+        "looped": false,
+        "id": "c2",
+        "well_formed": true
+      },
+      {
+        "had_planner": true,
+        "had_explainer": true,
+        "n_critic_passes": 1,
+        "n_retriever": 1,
+        "looped": false,
+        "id": "c3",
+        "well_formed": true
+      },
+      {
+        "had_planner": true,
+        "had_explainer": true,
+        "n_critic_passes": 1,
+        "n_retriever": 1,
+        "looped": false,
+        "id": "s1",
+        "well_formed": true
+      },
+      {
+        "had_planner": true,
+        "had_explainer": true,
+        "n_critic_passes": 1,
+        "n_retriever": 1,
+        "looped": false,
+        "id": "s2",
+        "well_formed": true
+      },
+      {
+        "had_planner": true,
+        "had_explainer": true,
+        "n_critic_passes": 1,
+        "n_retriever": 1,
+        "looped": false,
+        "id": "s3",
+        "well_formed": true
+      },
+      {
+        "had_planner": true,
+        "had_explainer": true,
+        "n_critic_passes": 1,
+        "n_retriever": 1,
+        "looped": false,
+        "id": "s4",
+        "well_formed": true
+      },
+      {
+        "had_planner": true,
+        "had_explainer": true,
+        "n_critic_passes": 1,
+        "n_retriever": 1,
+        "looped": false,
+        "id": "s5",
+        "well_formed": true
+      },
+      {
+        "had_planner": true,
+        "had_explainer": true,
+        "n_critic_passes": 1,
+        "n_retriever": 1,
+        "looped": false,
+        "id": "s6",
+        "well_formed": true
+      },
+      {
+        "had_planner": true,
+        "had_explainer": true,
+        "n_critic_passes": 1,
+        "n_retriever": 1,
+        "looped": false,
+        "id": "g1",
+        "well_formed": true
+      },
+      {
+        "had_planner": true,
+        "had_explainer": true,
+        "n_critic_passes": 1,
+        "n_retriever": 1,
+        "looped": false,
+        "id": "g2",
+        "well_formed": true
+      },
+      {
+        "had_planner": true,
+        "had_explainer": true,
+        "n_critic_passes": 1,
+        "n_retriever": 1,
+        "looped": false,
+        "id": "g3",
+        "well_formed": true
+      },
+      {
+        "had_planner": true,
+        "had_explainer": true,
+        "n_critic_passes": 1,
+        "n_retriever": 1,
+        "looped": false,
+        "id": "g4",
+        "well_formed": true
+      },
+      {
+        "had_planner": true,
+        "had_explainer": true,
+        "n_critic_passes": 3,
+        "n_retriever": 3,
+        "looped": true,
+        "id": "k1",
+        "well_formed": true
+      },
+      {
+        "had_planner": true,
+        "had_explainer": true,
+        "n_critic_passes": 1,
+        "n_retriever": 1,
+        "looped": false,
+        "id": "k2",
+        "well_formed": true
+      },
+      {
+        "had_planner": true,
+        "had_explainer": true,
+        "n_critic_passes": 1,
+        "n_retriever": 1,
+        "looped": false,
+        "id": "k3",
+        "well_formed": true
+      },
+      {
+        "had_planner": true,
+        "had_explainer": true,
+        "n_critic_passes": 1,
+        "n_retriever": 1,
+        "looped": false,
+        "id": "v1",
+        "well_formed": true
+      },
+      {
+        "had_planner": true,
+        "had_explainer": true,
+        "n_critic_passes": 1,
+        "n_retriever": 1,
+        "looped": false,
+        "id": "v2",
+        "well_formed": true
+      },
+      {
+        "had_planner": true,
+        "had_explainer": true,
+        "n_critic_passes": 1,
+        "n_retriever": 1,
+        "looped": false,
+        "id": "v3",
+        "well_formed": true
+      },
+      {
+        "had_planner": true,
+        "had_explainer": true,
+        "n_critic_passes": 1,
+        "n_retriever": 1,
+        "looped": false,
+        "id": "v4",
+        "well_formed": true
+      },
+      {
+        "had_planner": true,
+        "had_explainer": true,
+        "n_critic_passes": 1,
+        "n_retriever": 1,
+        "looped": false,
+        "id": "e1",
+        "well_formed": true
+      },
+      {
+        "had_planner": true,
+        "had_explainer": true,
+        "n_critic_passes": 1,
+        "n_retriever": 1,
+        "looped": false,
+        "id": "e2",
+        "well_formed": true
+      },
+      {
+        "had_planner": true,
+        "had_explainer": true,
+        "n_critic_passes": 8,
+        "n_retriever": 8,
+        "looped": true,
+        "id": "x1",
+        "well_formed": true
+      },
+      {
+        "had_planner": true,
+        "had_explainer": true,
+        "n_critic_passes": 8,
+        "n_retriever": 8,
+        "looped": true,
+        "id": "x2",
+        "well_formed": true
+      },
+      {
+        "had_planner": true,
+        "had_explainer": true,
+        "n_critic_passes": 1,
+        "n_retriever": 1,
+        "looped": false,
+        "id": "p1",
+        "well_formed": true
+      },
+      {
+        "had_planner": true,
+        "had_explainer": true,
+        "n_critic_passes": 1,
+        "n_retriever": 1,
+        "looped": false,
+        "id": "p2",
+        "well_formed": true
+      }
+    ]
+  }
+}

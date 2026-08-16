@@ -1,0 +1,139 @@
+{"query_id": "h1", "movieId": 111759, "title": "Edge of Tomorrow", "faithfulness": 1.0, "n_claims": 4}
+{"query_id": "h1", "movieId": 1240, "title": "The Terminator", "faithfulness": 1.0, "n_claims": 5}
+{"query_id": "h1", "movieId": 2916, "title": "Total Recall", "faithfulness": 1.0, "n_claims": 6}
+{"query_id": "h1", "movieId": 1580, "title": "Men in Black", "faithfulness": 1.0, "n_claims": 4}
+{"query_id": "h1", "movieId": 541, "title": "Blade Runner", "faithfulness": 0.8333333333333334, "n_claims": 6}
+{"query_id": "h2", "movieId": 2023, "title": "The Godfather Part III", "faithfulness": 1.0, "n_claims": 5}
+{"query_id": "h2", "movieId": 1213, "title": "GoodFellas", "faithfulness": 1.0, "n_claims": 3}
+{"query_id": "h2", "movieId": 48516, "title": "The Departed", "faithfulness": 0.75, "n_claims": 4}
+{"query_id": "h2", "movieId": 16, "title": "Casino", "faithfulness": 1.0, "n_claims": 5}
+{"query_id": "h2", "movieId": 1466, "title": "Donnie Brasco", "faithfulness": 1.0, "n_claims": 5}
+{"query_id": "h3", "movieId": 134130, "title": "The Martian", "faithfulness": 1.0, "n_claims": 4}
+{"query_id": "h3", "movieId": 104841, "title": "Gravity", "faithfulness": 0.75, "n_claims": 4}
+{"query_id": "h3", "movieId": 106920, "title": "Her", "faithfulness": 1.0, "n_claims": 3}
+{"query_id": "h3", "movieId": 115713, "title": "Ex Machina", "faithfulness": 1.0, "n_claims": 3}
+{"query_id": "h3", "movieId": 60069, "title": "WALL\u00b7E", "faithfulness": 1.0, "n_claims": 4}
+{"query_id": "h4", "movieId": 78499, "title": "Toy Story 3", "faithfulness": 1.0, "n_claims": 3}
+{"query_id": "h4", "movieId": 3114, "title": "Toy Story 2", "faithfulness": 0.75, "n_claims": 4}
+{"query_id": "c1", "movieId": 50, "title": "The Usual Suspects", "faithfulness": 0.75, "n_claims": 4}
+{"query_id": "c1", "movieId": 4011, "title": "Snatch", "faithfulness": 0.6666666666666666, "n_claims": 6}
+{"query_id": "c1", "movieId": 2542, "title": "Lock, Stock and Two Smoking Barrels", "faithfulness": 0.8, "n_claims": 5}
+{"query_id": "c1", "movieId": 1729, "title": "Jackie Brown", "faithfulness": 1.0, "n_claims": 3}
+{"query_id": "c1", "movieId": 1213, "title": "GoodFellas", "faithfulness": 0.6666666666666666, "n_claims": 6}
+{"query_id": "c2", "movieId": 204698, "title": "Joker", "faithfulness": 0.6666666666666666, "n_claims": 6}
+{"query_id": "c2", "movieId": 168250, "title": "Get Out", "faithfulness": 0.75, "n_claims": 4}
+{"query_id": "c3", "movieId": 5971, "title": "My Neighbor Totoro", "faithfulness": 1.0, "n_claims": 3}
+{"query_id": "c3", "movieId": 6350, "title": "Castle in the Sky", "faithfulness": 1.0, "n_claims": 3}
+{"query_id": "c3", "movieId": 48394, "title": "Pan's Labyrinth", "faithfulness": 1.0, "n_claims": 6}
+{"query_id": "c3", "movieId": 31658, "title": "Howl's Moving Castle", "faithfulness": 1.0, "n_claims": 5}
+{"query_id": "c3", "movieId": 65261, "title": "Ponyo", "faithfulness": 1.0, "n_claims": 5}
+{"query_id": "s1", "movieId": 109104, "title": "Quest for a Heart", "faithfulness": 1.0, "n_claims": 5}
+{"query_id": "s1", "movieId": 5218, "title": "Ice Age", "faithfulness": 1.0, "n_claims": 6}
+{"query_id": "s1", "movieId": 106696, "title": "Frozen", "faithfulness": 1.0, "n_claims": 6}
+{"query_id": "s1", "movieId": 200614, "title": "Wonder Park", "faithfulness": 1.0, "n_claims": 3}
+{"query_id": "s1", "movieId": 156137, "title": "Jock the Hero Dog", "faithfulness": 1.0, "n_claims": 7}
+{"query_id": "s2", "movieId": 1210, "title": "Return of the Jedi", "faithfulness": 1.0, "n_claims": 3}
+{"query_id": "s2", "movieId": 2549, "title": "Wing Commander", "faithfulness": 1.0, "n_claims": 5}
+{"query_id": "s2", "movieId": 241784, "title": "Cosmic Sin", "faithfulness": 1.0, "n_claims": 6}
+{"query_id": "s2", "movieId": 1372, "title": "Star Trek VI: The Undiscovered Country", "faithfulness": 1.0, "n_claims": 3}
+{"query_id": "s2", "movieId": 102445, "title": "Star Trek Into Darkness", "faithfulness": 0.75, "n_claims": 4}
+{"query_id": "s3", "movieId": 1464, "title": "Lost Highway", "faithfulness": 1.0, "n_claims": 5}
+{"query_id": "s3", "movieId": 291715, "title": "Reptile", "faithfulness": 1.0, "n_claims": 5}
+{"query_id": "s3", "movieId": 168284, "title": "Murder by Natural Causes", "faithfulness": 1.0, "n_claims": 7}
+{"query_id": "s3", "movieId": 1252, "title": "Chinatown", "faithfulness": 1.0, "n_claims": 6}
+{"query_id": "s3", "movieId": 3683, "title": "Blood Simple", "faithfulness": 1.0, "n_claims": 3}
+{"query_id": "s4", "movieId": 76147, "title": "I Hate Valentine's Day", "faithfulness": 1.0, "n_claims": 5}
+{"query_id": "s4", "movieId": 6367, "title": "Down with Love", "faithfulness": 0.6666666666666666, "n_claims": 3}
+{"query_id": "s4", "movieId": 85007, "title": "Happythankyoumoreplease", "faithfulness": 1.0, "n_claims": 3}
+{"query_id": "s4", "movieId": 71823, "title": "New York, I Love You", "faithfulness": 1.0, "n_claims": 3}
+{"query_id": "s4", "movieId": 3225, "title": "Down to You", "faithfulness": 1.0, "n_claims": 5}
+{"query_id": "s5", "movieId": 183785, "title": "Monday at 11:01 A.M.", "faithfulness": 1.0, "n_claims": 5}
+{"query_id": "s5", "movieId": 6530, "title": "The Tenant", "faithfulness": 0.5, "n_claims": 4}
+{"query_id": "s5", "movieId": 131820, "title": "Echoes", "faithfulness": 1.0, "n_claims": 5}
+{"query_id": "s5", "movieId": 220708, "title": "The Current Occupant", "faithfulness": 0.8333333333333334, "n_claims": 6}
+{"query_id": "s5", "movieId": 26248, "title": "Let's Scare Jessica to Death", "faithfulness": 1.0, "n_claims": 5}
+{"query_id": "s6", "movieId": 6565, "title": "Seabiscuit", "faithfulness": 1.0, "n_claims": 4}
+{"query_id": "s6", "movieId": 33660, "title": "Cinderella Man", "faithfulness": 1.0, "n_claims": 4}
+{"query_id": "s6", "movieId": 48711, "title": "Facing the Giants", "faithfulness": 0.6666666666666666, "n_claims": 3}
+{"query_id": "s6", "movieId": 268514, "title": "83", "faithfulness": 1.0, "n_claims": 4}
+{"query_id": "s6", "movieId": 252184, "title": "12 Mighty Orphans", "faithfulness": 1.0, "n_claims": 4}
+{"query_id": "g1", "movieId": 115379, "title": "Grave Secrets", "faithfulness": 1.0, "n_claims": 4}
+{"query_id": "g1", "movieId": 235763, "title": "Don't Panic", "faithfulness": 1.0, "n_claims": 4}
+{"query_id": "g1", "movieId": 2451, "title": "The Gate", "faithfulness": 1.0, "n_claims": 4}
+{"query_id": "g1", "movieId": 205319, "title": "Laurin", "faithfulness": 0.8333333333333334, "n_claims": 6}
+{"query_id": "g1", "movieId": 251588, "title": "The Cellar", "faithfulness": 1.0, "n_claims": 3}
+{"query_id": "g2", "movieId": 273785, "title": "Without Ward", "faithfulness": 1.0, "n_claims": 4}
+{"query_id": "g2", "movieId": 136930, "title": "95ers: Time Runners", "faithfulness": 1.0, "n_claims": 6}
+{"query_id": "g2", "movieId": 157098, "title": "Jackrabbit", "faithfulness": 0.8, "n_claims": 5}
+{"query_id": "g2", "movieId": 117576, "title": "Pumzi", "faithfulness": 0.8, "n_claims": 5}
+{"query_id": "g2", "movieId": 285021, "title": "Record/Play", "faithfulness": 1.0, "n_claims": 3}
+{"query_id": "g3", "movieId": 129274, "title": "Police Python 357", "faithfulness": 1.0, "n_claims": 6}
+{"query_id": "g3", "movieId": 291715, "title": "Reptile", "faithfulness": 1.0, "n_claims": 4}
+{"query_id": "g3", "movieId": 244906, "title": "Spiral: From the Book of Saw", "faithfulness": 0.6666666666666666, "n_claims": 3}
+{"query_id": "g3", "movieId": 5312, "title": "Murder by Numbers", "faithfulness": 1.0, "n_claims": 5}
+{"query_id": "g3", "movieId": 188763, "title": "Chasing Ghosts", "faithfulness": 1.0, "n_claims": 4}
+{"query_id": "g4", "movieId": 5017, "title": "The Big Heat", "faithfulness": 1.0, "n_claims": 4}
+{"query_id": "g4", "movieId": 132232, "title": "Shield for Murder", "faithfulness": 1.0, "n_claims": 2}
+{"query_id": "g4", "movieId": 1069, "title": "Murder, My Sweet", "faithfulness": 0.5, "n_claims": 4}
+{"query_id": "g4", "movieId": 7924, "title": "Stray Dog", "faithfulness": 1.0, "n_claims": 3}
+{"query_id": "g4", "movieId": 89588, "title": "Follow Me Quietly", "faithfulness": 1.0, "n_claims": 2}
+{"query_id": "k1", "movieId": 1217, "title": "Ran", "faithfulness": 1.0, "n_claims": 4}
+{"query_id": "k1", "movieId": 2427, "title": "The Thin Red Line", "faithfulness": 1.0, "n_claims": 7}
+{"query_id": "k1", "movieId": 5152, "title": "We Were Soldiers", "faithfulness": 1.0, "n_claims": 7}
+{"query_id": "k1", "movieId": 8977, "title": "Alexander", "faithfulness": 1.0, "n_claims": 4}
+{"query_id": "k1", "movieId": 26560, "title": "The Unknown Soldier", "faithfulness": 0.75, "n_claims": 4}
+{"query_id": "k2", "movieId": 5218, "title": "Ice Age", "faithfulness": 1.0, "n_claims": 6}
+{"query_id": "k2", "movieId": 3751, "title": "Chicken Run", "faithfulness": 1.0, "n_claims": 3}
+{"query_id": "k2", "movieId": 136485, "title": "The Robot Chicken: Star Wars", "faithfulness": 0.75, "n_claims": 4}
+{"query_id": "k2", "movieId": 6889, "title": "Brother Bear", "faithfulness": 1.0, "n_claims": 7}
+{"query_id": "k2", "movieId": 181355, "title": "The Robot Chicken: Star Wars Episode II", "faithfulness": 1.0, "n_claims": 3}
+{"query_id": "k3", "movieId": 1252, "title": "Chinatown", "faithfulness": 1.0, "n_claims": 5}
+{"query_id": "k3", "movieId": 3735, "title": "Serpico", "faithfulness": 1.0, "n_claims": 3}
+{"query_id": "k3", "movieId": 121013, "title": "The Body of My Enemy", "faithfulness": 1.0, "n_claims": 5}
+{"query_id": "k3", "movieId": 3682, "title": "Magnum Force", "faithfulness": 0.8, "n_claims": 5}
+{"query_id": "k3", "movieId": 278168, "title": "Dead Pigeon on Beethoven Street", "faithfulness": 1.0, "n_claims": 2}
+{"query_id": "v1", "movieId": 230095, "title": "23 Walks", "faithfulness": 1.0, "n_claims": 4}
+{"query_id": "v1", "movieId": 208939, "title": "Klaus", "faithfulness": 1.0, "n_claims": 3}
+{"query_id": "v1", "movieId": 98956, "title": "Barfi!", "faithfulness": 1.0, "n_claims": 4}
+{"query_id": "v1", "movieId": 159717, "title": "The Fundamentals of Caring", "faithfulness": 0.8571428571428571, "n_claims": 7}
+{"query_id": "v1", "movieId": 6753, "title": "Secondhand Lions", "faithfulness": 0.75, "n_claims": 4}
+{"query_id": "v2", "movieId": 27, "title": "Now and Then", "faithfulness": 1.0, "n_claims": 4}
+{"query_id": "v2", "movieId": 1172, "title": "Cinema Paradiso", "faithfulness": 1.0, "n_claims": 3}
+{"query_id": "v2", "movieId": 109781, "title": "A Werewolf Boy", "faithfulness": 1.0, "n_claims": 2}
+{"query_id": "v2", "movieId": 2714, "title": "The Wood", "faithfulness": 1.0, "n_claims": 2}
+{"query_id": "v2", "movieId": 103435, "title": "Ah, Wilderness!", "faithfulness": 1.0, "n_claims": 6}
+{"query_id": "v3", "movieId": 4873, "title": "Waking Life", "faithfulness": 1.0, "n_claims": 3}
+{"query_id": "v3", "movieId": 55908, "title": "The Man from Earth", "faithfulness": 0.5, "n_claims": 2}
+{"query_id": "v3", "movieId": 84120, "title": "Wittgenstein", "faithfulness": 1.0, "n_claims": 4}
+{"query_id": "v3", "movieId": 177521, "title": "Photon", "faithfulness": 1.0, "n_claims": 5}
+{"query_id": "v3", "movieId": 90237, "title": "Examined Life", "faithfulness": 1.0, "n_claims": 3}
+{"query_id": "v4", "movieId": 160954, "title": "Nerve", "faithfulness": 1.0, "n_claims": 4}
+{"query_id": "v4", "movieId": 91630, "title": "Mission: Impossible - Ghost Protocol", "faithfulness": 1.0, "n_claims": 3}
+{"query_id": "v4", "movieId": 93297, "title": "Act of Valor", "faithfulness": 1.0, "n_claims": 3}
+{"query_id": "v4", "movieId": 143561, "title": "Swat: Unit 887", "faithfulness": 1.0, "n_claims": 6}
+{"query_id": "v4", "movieId": 157957, "title": "Short Fuse", "faithfulness": 1.0, "n_claims": 6}
+{"query_id": "e1", "movieId": 163985, "title": "ARQ", "faithfulness": 0.6, "n_claims": 5}
+{"query_id": "e1", "movieId": 90405, "title": "In Time", "faithfulness": 1.0, "n_claims": 4}
+{"query_id": "e1", "movieId": 237818, "title": "Norman", "faithfulness": 0.6666666666666666, "n_claims": 3}
+{"query_id": "e1", "movieId": 34334, "title": "Stealth", "faithfulness": 0.8, "n_claims": 5}
+{"query_id": "e1", "movieId": 277634, "title": "Wifelike", "faithfulness": 1.0, "n_claims": 4}
+{"query_id": "e2", "movieId": 170939, "title": "Captain Underpants: The First Epic Movie", "faithfulness": 0.6666666666666666, "n_claims": 6}
+{"query_id": "e2", "movieId": 4415, "title": "Nice Dreams", "faithfulness": 0.8, "n_claims": 5}
+{"query_id": "e2", "movieId": 215685, "title": "Bad Trip", "faithfulness": 0.6, "n_claims": 5}
+{"query_id": "e2", "movieId": 6753, "title": "Secondhand Lions", "faithfulness": 0.7142857142857143, "n_claims": 7}
+{"query_id": "e2", "movieId": 198153, "title": "The Beach Bum", "faithfulness": 0.8333333333333334, "n_claims": 6}
+{"query_id": "x2", "movieId": 116555, "title": "The Disembodied", "faithfulness": 1.0, "n_claims": 5}
+{"query_id": "x2", "movieId": 7881, "title": "White Zombie", "faithfulness": 1.0, "n_claims": 2}
+{"query_id": "x2", "movieId": 33587, "title": "The Uninvited", "faithfulness": 1.0, "n_claims": 5}
+{"query_id": "x2", "movieId": 164997, "title": "Dr. Renault's Secret", "faithfulness": 1.0, "n_claims": 6}
+{"query_id": "x2", "movieId": 103324, "title": "The Vampire", "faithfulness": 1.0, "n_claims": 3}
+{"query_id": "p1", "movieId": 33794, "title": "Batman Begins", "faithfulness": 1.0, "n_claims": 4}
+{"query_id": "p1", "movieId": 91529, "title": "The Dark Knight Rises", "faithfulness": 1.0, "n_claims": 3}
+{"query_id": "p1", "movieId": 44191, "title": "V for Vendetta", "faithfulness": 1.0, "n_claims": 3}
+{"query_id": "p1", "movieId": 59315, "title": "Iron Man", "faithfulness": 1.0, "n_claims": 4}
+{"query_id": "p1", "movieId": 89745, "title": "The Avengers", "faithfulness": 1.0, "n_claims": 2}
+{"query_id": "p2", "movieId": 210861, "title": "The Gentlemen", "faithfulness": 1.0, "n_claims": 3}
+{"query_id": "p2", "movieId": 206857, "title": "The Irishman", "faithfulness": 1.0, "n_claims": 4}
+{"query_id": "p2", "movieId": 209965, "title": "Uncut Gems", "faithfulness": 0.8333333333333334, "n_claims": 6}
+{"query_id": "p2", "movieId": 204698, "title": "Joker", "faithfulness": 1.0, "n_claims": 5}
+{"query_id": "p2", "movieId": 268642, "title": "The Batman", "faithfulness": 0.8, "n_claims": 5}

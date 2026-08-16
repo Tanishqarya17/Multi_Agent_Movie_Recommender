@@ -1,0 +1,13 @@
+gradio>=5.0.0
+langgraph
+google-genai>=1.0.0
+implicit
+faiss-cpu
+sentence-transformers>=3.0.0
+transformers>=4.51.0
+torch
+pandas
+scipy
+numpy
+pyarrow
+pydantic

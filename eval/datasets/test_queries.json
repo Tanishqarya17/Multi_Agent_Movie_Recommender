@@ -1,0 +1,258 @@
+[
+  {
+    "id": "h1",
+    "query": "something like Inception and The Matrix but less confusing, under 2 hours",
+    "axes": [
+      "hybrid",
+      "popular",
+      "runtime"
+    ]
+  },
+  {
+    "id": "h2",
+    "query": "movies like The Godfather but more modern",
+    "axes": [
+      "hybrid",
+      "popular",
+      "year"
+    ]
+  },
+  {
+    "id": "h3",
+    "query": "if I loved Interstellar and Arrival, what else would move me",
+    "axes": [
+      "hybrid",
+      "unspecified"
+    ]
+  },
+  {
+    "id": "h4",
+    "query": "like Toy Story but for adults",
+    "axes": [
+      "hybrid",
+      "unspecified"
+    ]
+  },
+  {
+    "id": "c1",
+    "query": "more movies like Pulp Fiction and Reservoir Dogs",
+    "axes": [
+      "cf",
+      "popular"
+    ]
+  },
+  {
+    "id": "c2",
+    "query": "I just watched Parasite, what next",
+    "axes": [
+      "cf",
+      "unspecified"
+    ]
+  },
+  {
+    "id": "c3",
+    "query": "recommendations based on Spirited Away",
+    "axes": [
+      "cf",
+      "unspecified"
+    ]
+  },
+  {
+    "id": "s1",
+    "query": "feel-good animated family movies for kids",
+    "axes": [
+      "semantic",
+      "popular",
+      "genre"
+    ]
+  },
+  {
+    "id": "s2",
+    "query": "epic space operas with grand battles",
+    "axes": [
+      "semantic",
+      "unspecified"
+    ]
+  },
+  {
+    "id": "s3",
+    "query": "twisty crime thrillers with unreliable narrators",
+    "axes": [
+      "semantic",
+      "genre"
+    ]
+  },
+  {
+    "id": "s4",
+    "query": "romantic comedies set in New York",
+    "axes": [
+      "semantic",
+      "genre"
+    ]
+  },
+  {
+    "id": "s5",
+    "query": "mind-bending psychological horror",
+    "axes": [
+      "semantic",
+      "genre"
+    ]
+  },
+  {
+    "id": "s6",
+    "query": "heartwarming sports underdog stories",
+    "axes": [
+      "semantic",
+      "unspecified"
+    ]
+  },
+  {
+    "id": "g1",
+    "query": "an underrated 80s horror movie, short, nothing mainstream",
+    "axes": [
+      "semantic",
+      "hidden",
+      "genre",
+      "year",
+      "runtime"
+    ]
+  },
+  {
+    "id": "g2",
+    "query": "obscure indie sci-fi that nobody talks about",
+    "axes": [
+      "semantic",
+      "hidden"
+    ]
+  },
+  {
+    "id": "g3",
+    "query": "hidden gem foreign thrillers",
+    "axes": [
+      "semantic",
+      "hidden",
+      "genre"
+    ]
+  },
+  {
+    "id": "g4",
+    "query": "deep-cut noir films from before 1960",
+    "axes": [
+      "semantic",
+      "hidden",
+      "genre",
+      "year"
+    ]
+  },
+  {
+    "id": "k1",
+    "query": "a long epic war drama from the 90s, but not Saving Private Ryan",
+    "axes": [
+      "semantic",
+      "genre",
+      "year",
+      "runtime",
+      "exclude"
+    ]
+  },
+  {
+    "id": "k2",
+    "query": "short animated comedies from the 2000s under 100 minutes",
+    "axes": [
+      "semantic",
+      "genre",
+      "year",
+      "runtime"
+    ]
+  },
+  {
+    "id": "k3",
+    "query": "dark crime dramas from the 1970s over two hours",
+    "axes": [
+      "semantic",
+      "genre",
+      "year",
+      "runtime"
+    ]
+  },
+  {
+    "id": "v1",
+    "query": "something cozy for a rainy Sunday",
+    "axes": [
+      "semantic",
+      "vague"
+    ]
+  },
+  {
+    "id": "v2",
+    "query": "I want to feel nostalgic",
+    "axes": [
+      "semantic",
+      "vague"
+    ]
+  },
+  {
+    "id": "v3",
+    "query": "movies that will make me think",
+    "axes": [
+      "semantic",
+      "vague"
+    ]
+  },
+  {
+    "id": "v4",
+    "query": "something intense and adrenaline-pumping",
+    "axes": [
+      "semantic",
+      "vague"
+    ]
+  },
+  {
+    "id": "e1",
+    "query": "sci-fi movies but nothing with aliens",
+    "axes": [
+      "semantic",
+      "genre",
+      "negation"
+    ]
+  },
+  {
+    "id": "e2",
+    "query": "comedies that aren't romantic comedies",
+    "axes": [
+      "semantic",
+      "genre",
+      "negation"
+    ]
+  },
+  {
+    "id": "x1",
+    "query": "a 30-minute epic war musical western from 1925",
+    "axes": [
+      "impossible"
+    ]
+  },
+  {
+    "id": "x2",
+    "query": "a documentary horror romance under 40 minutes from the 1930s",
+    "axes": [
+      "impossible"
+    ]
+  },
+  {
+    "id": "p1",
+    "query": "movies like The Dark Knight",
+    "axes": [
+      "cf",
+      "popular"
+    ]
+  },
+  {
+    "id": "p2",
+    "query": "what to watch after Breaking Bad",
+    "axes": [
+      "cf",
+      "unspecified"
+    ]
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "mode": "Anchor fold-in returns sequels/near-duplicates",
+    "desc": "For 'like X but different/for adults', CF anchor fold-in returns behaviorally-similar films \u2014 often X's own sequels \u2014 instead of tonal contrast.",
+    "evidence": "h4 'Toy Story but for adults' -> returned Toy Story 2/3.",
+    "severity": "Medium \u2014 affects 'like X but tonally different' queries; CF optimizes similarity, not contrast."
+  },
+  {
+    "mode": "Relaxation drift on near-impossible queries",
+    "desc": "Genuinely impossible constraint combos trigger the full relaxation ladder, drifting far from the original request while still returning results.",
+    "evidence": "x2 'documentary horror romance <40min from 1930s' -> relaxed to 1910-1959 / <100min. Now disclosed via STRETCH message.",
+    "severity": "Low \u2014 rare, and disclosure makes it honest; mitigated by the STRETCH flag."
+  },
+  {
+    "mode": "Content-negation not expressible",
+    "desc": "The Plan schema captures genre/runtime/year but has no field for content exclusions ('no aliens', 'not rom-coms'), so that part is silently dropped.",
+    "evidence": "e1 'sci-fi but nothing with aliens', e2 'comedies that aren't rom-coms' \u2014 negation ignored.",
+    "severity": "Medium \u2014 a real schema limitation; the negated content can still appear in results."
+  },
+  {
+    "mode": "Costly ladder on impossible queries",
+    "desc": "Near-impossible queries run up to 8 critic passes (7 relaxation steps + initial), the most LLM-expensive path.",
+    "evidence": "x1, x2 -> 8 retriever/critic passes each (~6-7 LLM calls per query).",
+    "severity": "Low \u2014 correctness preserved; an efficiency cost on rare inputs."
+  },
+  {
+    "mode": "Retrieval loses to parametric recall on canonical requests",
+    "desc": "For well-known thematic queries, a single LLM's memorized 'canonical answer' often out-fits retrieval from the 87K catalog on preference-judging.",
+    "evidence": "Win-rate: system ~30% (fame-neutral) vs baseline; losses concentrated on iconic-answer queries (s3, s6, etc.).",
+    "severity": "High for win-rate; but orthogonal to the system's actual value (grounding/constraints/verifiability)."
+  },
+  {
+    "mode": "Non-determinism across identical inputs",
+    "desc": "Even at temperature=0, Gemini can produce slightly different plans/outputs for the same query, so trajectories aren't perfectly reproducible.",
+    "evidence": "Day 14: same query/model -> different semantic_query strings.",
+    "severity": "Low \u2014 affects reproducibility of eval, not correctness."
+  },
+  {
+    "mode": "Faithfulness misses are mostly measurement artifacts, not fabrications",
+    "desc": "Low-faithfulness cases (<0.7) were driven by two measurement effects rather than hallucination: (1) the judge scored explanations against a ~300-char TRUNCATED overview, so true plot claims not in the snippet were marked 'unsupported'; and (2) a small-denominator effect \u2014 explanations with only 2-5 claims swing to 0.50 when a single claim is unsupported. Manual review against FULL overviews found near-zero genuine fabrications.",
+    "evidence": "All <0.7 cases inspected (The Tenant, Murder My Sweet, The Man from Earth 0.50; ARQ, Bad Trip 0.60): cited claims were true of the films but partly outside the truncated snippet the judge saw. No case invented a false plot detail.",
+    "severity": "Very low as a system fault \u2014 implies TRUE faithfulness is HIGHER than the measured 0.929 (the metric understates it). Fixable by feeding the judge full overviews; the 0.929 is a conservative floor."
+  }
+]
