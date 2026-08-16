@@ -10,9 +10,6 @@
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 **🔗 Live Demo:** [View the deployed system on Hugging Face Spaces →](https://huggingface.co/spaces/Tanishq71/Multi-Agent_Movie_Recommender)
-
-> **Replace before publishing:** update the Space link above and the clone URL below to your exact repository and Space slugs.
-
 ---
 
 ## Overview
