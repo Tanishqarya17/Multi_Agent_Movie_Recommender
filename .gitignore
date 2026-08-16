@@ -216,3 +216,13 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# large artifacts and data (hosted on Hugging Face, not GitHub)
+*.npz
+*.index
+*.parquet
+data/raw/
+artifacts/
+deploy/artifacts/
+deploy/data/
+.ipynb_checkpoints/
