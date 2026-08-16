@@ -1,5 +1,14 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
+*.pyc
+*.npz
+*.index
+*.parquet
+data/raw/
+artifacts/
+deploy/artifacts/
+deploy/data/
+.ipynb_checkpoints/
 *.py[codz]
 *$py.class
 
